@@ -1,5 +1,5 @@
 The RMSE file contains a graph of the model being trained
-The underlying data ranges from 0-7
+The underlying data ranges from 0-8
 
 The other screenshots are demonstrations of the GUI being used and the different results associated with different inputs
 The fatality score represents the typical number of fatalities associated with a significant accident on this type of road
